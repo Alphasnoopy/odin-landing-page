@@ -4,7 +4,7 @@ body {
     flex-direction: column;
 }
 
-.header-top {
+.header{
     display: flex;
     justify-content: space-between;
 }
@@ -15,4 +15,8 @@ ul {
     padding: 0;
     display: flex;
     gap: 24px;
+}
+
+.hero {
+    display: flex;
 }
