@@ -52,6 +52,7 @@ ul {
 
 .hero-button {
     align-self: flex-start;
+    border: none;
 }
 
 img {
@@ -118,6 +119,21 @@ img {
     font-size: 24px;
     font-weight: bolder;
     color: #F9FAF8;
+}
+
+.box-button {
+    align-self: flex-end;
+    border-color: #F9FAF8;
+    border-style: solid;
+}
+
+button {
+    padding: 10px 40px;
+    border-radius: 10px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 16px;
+    font-weight: bolder;
 }
 
 .footer {
