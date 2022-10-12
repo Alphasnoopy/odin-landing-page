@@ -103,3 +103,18 @@ img {
     font-weight: bolder;
     align-self: flex-end;
 }
+
+.sign-up {
+    background-color: #3882F6;
+    margin: 80px 400px;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 90px;
+    color: #E5E7EB;
+    border-radius: 10px;
+}
+
+.box-title {
+    font-size: 24px;
+    font-weight: bolder;
+}
