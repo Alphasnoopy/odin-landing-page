@@ -2,6 +2,7 @@ body {
     margin: 0;
     display: flex;
     flex-direction: column;
+    font-family: "Roboto", sans-serif;
 }
 
 .header{
@@ -80,4 +81,25 @@ img {
 
 .img-info {
     max-width: 200px;
+}
+
+.body-quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 480px;
+    background-color: #E5E7EB;
+}
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    margin-bottom: 24px;
+}
+
+.author {
+    font-size: 24px;
+    font-weight: bolder;
+    align-self: flex-end;
 }
